@@ -1,0 +1,7 @@
+<link rel="manifest" href="https://manifests.com/app.json.htm" >
+
+<link rel="manifest" href="/prod/manifest/app.json.htm">
+
+<link rel="manifest" href="/app.json" >
+
+<link rel="manifest" href="/app.json.htm" >
