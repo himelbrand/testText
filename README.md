@@ -10,11 +10,11 @@ url(E-f.url)
 integrity="sha384-oqVuAfXRKap7fdgcCY5uykM6+R9GqQ8K/uxy9rx7HNQlGYl1kPzQho1wx4JwY8wC" 
 
 
-`<link rel="manifest" href="https://manifests.com/app.json.htm"  >`
+\<link rel="manifest" href="https://manifests.com/app.json.htm"  >`
 
 
 
-`<link rel="manifest" href="/prod/manifest/app.json.htm">`
+<link rel="manifest" href="/prod/manifest/app.json.htm">
 
 
 `<link rel="manifest" href="/app.json"             >`
